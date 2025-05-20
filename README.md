@@ -90,6 +90,12 @@ This extension does not track or transmit personal information.
 
 ---
 
+## Icon Attribution
+
+"Profit" icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
+
+---
+
 ## Future Improvements
 
 - Micro-charts for historical data
